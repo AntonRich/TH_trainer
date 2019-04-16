@@ -7,6 +7,7 @@
 Quick TODO:
 
 - make a field that will show a word from an input
+- React to a space key event. But first check if the answer is given by the user.
 
 TODO:
 - Done: Create hardcoded data for the input
